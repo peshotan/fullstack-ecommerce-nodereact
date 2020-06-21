@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-ecommerce-nodereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterirani/fullstack-ecommerce-nodereact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterirani/fullstack-ecommerce-nodereact/issues"
+  },
+  "homepage": "https://github.com/peterirani/fullstack-ecommerce-nodereact#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
